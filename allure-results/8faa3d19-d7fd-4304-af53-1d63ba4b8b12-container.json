@@ -1,0 +1,1 @@
+{"uuid":"8faa3d19-d7fd-4304-af53-1d63ba4b8b12","name":"com.nexa.uk.Base.setup","children":["a7aeac36-d648-48e3-bed2-5687f7f6a197"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1761652649233,"stop":1761652668767}],"afters":[],"start":1761652649231,"stop":1761652668769}
